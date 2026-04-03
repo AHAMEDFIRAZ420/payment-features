@@ -1,0 +1,31 @@
+[
+  {
+    "id": "USR-9821",
+    "email": "admin@payplatform.in",
+    "password": "password123",
+    "name": "John Doe",
+    "role": "admin"
+  },
+  {
+    "id": "USR-2968",
+    "email": "sanjay@techpay.in",
+    "password": "test1234",
+    "name": "Sanjay Kumar",
+    "businessName": "TechPay Solutions",
+    "phone": "+91 99887 76655",
+    "role": "client",
+    "key_id": "http://127.0.0.1:8000/api/User_103/v1",
+    "key_secret": "my_super_secret_123",
+    "webhook_secret": "DEMO",
+    "account_id": "DEMO"
+  },
+  {
+    "id": "USR-3108",
+    "email": "test@test.com",
+    "password": "password",
+    "name": "Admin",
+    "businessName": "",
+    "phone": "",
+    "role": "client"
+  }
+]
